@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  },
+  "scripts": {
+    "start": "start",
+    "build": "build",
+    "test": "test",
+    "eject": "eject",
+    "test:e2e": "cypress open" 
+  },
+    "chromeWebSecurity": false
+}
