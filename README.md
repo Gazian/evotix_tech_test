@@ -30,11 +30,12 @@ Fill in Assessment Date and Description fields
 Click Save and Close button
 Add another record following the above steps from Click New Record button
 Using the cog delete the first record that was just created by test
+Log out
 
 Test Steps Incomplete:
 Verify the first record has been deleted
 Verify the second record is still available
-Log out
+
 
 
 

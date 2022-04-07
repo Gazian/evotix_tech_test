@@ -24,6 +24,8 @@
     cy.get('[data-id]').eq(1).find('button[title="Manage Record"]').click()
     cy.get('[data-id]').eq(1).find('a[class="deleteDialog"]').click()
     cy.get('.ui-dialog-buttonset > :nth-child(1)').click()
+    cy.get('#uservoice-activation > .she-menu-non-bold').click()
+    cy.get('#uservoice-activation > .js-she-dropdown-menu > :nth-child(5) > a').click()
     
 
     })
