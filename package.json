@@ -7,7 +7,7 @@
     "build": "build",
     "test": "test",
     "eject": "eject",
-    "test:e2e": "cypress open" 
+    "test:e2e": "cypress open"
   },
-    "chromeWebSecurity": false
+  "chromeWebSecurity": false
 }
